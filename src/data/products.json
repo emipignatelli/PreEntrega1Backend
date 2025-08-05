@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2,
+    "title": "Producto Y",
+    "description": "Descripción del producto Y",
+    "code": "P002",
+    "price": 150,
+    "status": true,
+    "stock": 20,
+    "category": "Electrónica",
+    "thumbnails": [
+      "ruta_imagen_3",
+      "ruta_imagen_4"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Producto Y",
+    "description": "Descripción del producto Y",
+    "code": "P002",
+    "price": 150,
+    "status": true,
+    "stock": 20,
+    "category": "Electrónica",
+    "thumbnails": [
+      "ruta_imagen_3",
+      "ruta_imagen_4"
+    ]
+  }
+]
