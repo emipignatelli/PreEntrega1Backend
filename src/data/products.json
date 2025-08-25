@@ -26,5 +26,38 @@
       "ruta_imagen_3",
       "ruta_imagen_4"
     ]
+  },
+  {
+    "id": 4,
+    "title": "Producto Test",
+    "description": "Descripción del producto Test",
+    "code": "PT001",
+    "price": 100,
+    "status": true,
+    "stock": 50,
+    "category": "Test",
+    "thumbnails": []
+  },
+  {
+    "id": 5,
+    "title": "Producto Test",
+    "description": "Descripción del producto Test",
+    "code": "PT001",
+    "price": 100,
+    "status": true,
+    "stock": 50,
+    "category": "Test",
+    "thumbnails": []
+  },
+  {
+    "id": 6,
+    "title": "Carne",
+    "description": "ternera",
+    "code": "165",
+    "price": 5000,
+    "status": true,
+    "stock": 25,
+    "category": "carnes",
+    "thumbnails": []
   }
 ]
